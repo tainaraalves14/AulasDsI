@@ -1,0 +1,28 @@
+html,body
+{
+    height:100%;
+    width:100%;
+    margin: 0;
+    border: 0;
+    background: rgb(255,77,23);
+}
+
+.grape
+{
+    display: grid;
+    grid-template-columns: ;
+    background: rgb(0,156,34);
+    gap:20px;
+}
+.item1
+{
+    width: 100%;
+    background: rgb(45,83,255);
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.texto1
+{
+    text-align:center;
+}

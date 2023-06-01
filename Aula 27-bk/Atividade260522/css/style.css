@@ -1,0 +1,42 @@
+html,body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    background: rgb(220, 20, 60);
+}
+
+#conteudo{
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    background: white;
+    gap: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.item{
+    width: 500px;
+    height: auto;
+    color: black;
+    background: rgb(255, 255, 255);
+    border: 10px solid white;
+    border-radius: 10px;
+    font-size: 20pt;
+}
+
+.item:hover{
+    border: 10px solid red;
+    cursor: pointer;
+}
+
+.resp{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}

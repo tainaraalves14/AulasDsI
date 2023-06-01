@@ -1,0 +1,31 @@
+html,body
+{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: red;
+}
+
+.grid
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 1fr;
+    justify-items: center;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+}
+
+.item
+{
+    width: auto;
+    height: auto;
+    background: rgb(166,25,24);
+}
+.cinza
+{
+    background: #262626;
+}

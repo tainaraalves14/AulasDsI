@@ -1,0 +1,39 @@
+html,body
+{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: #DB5375;
+}
+
+.grid
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    justify-items: center;
+    align-items: center;
+    height: 100%;
+    align-content: center;
+}
+
+.item
+{
+    width: auto;
+    height: auto;
+    background: #4B3B40;
+}
+
+.cinza
+{
+    background: #262626;
+}
+
+.responsivo
+{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}

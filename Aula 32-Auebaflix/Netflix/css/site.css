@@ -1,0 +1,65 @@
+
+option
+{
+font: inherit;
+margin: 0;
+text-transform: none;
+appearance: none;
+border-radius: 2px;
+width: 100%;
+background: rgba(0,0,0,.4);
+border: 1px solid #aaa;
+color: #fff;
+font-size: .875rem;
+padding: .5rem 1.375rem;
+text-indent: 0;
+padding-left: 1.375rem;
+padding-right: 1.375rem;
+line-height: 1.3em;
+white-space: nowrap;
+}
+
+.ui-select.medium
+{
+    padding: 12px;
+    color: #fff;
+    background: rgba(0,0,0,.4);
+
+    padding-left: 1.375rem;
+    padding-right: 1.375rem;
+    line-height: 1.3em;
+    overflow: hidden;
+    white-space: nowrap;
+
+    text-indent: 0;
+    padding-right: 26px;
+
+    
+}
+
+/*   criado*/
+
+.select{
+    display: inline-block;
+    height: fit-content;
+
+    background: black;
+    color: #FFF;    
+    
+}
+
+select{
+    
+    padding: 12px;
+    color: #fff;
+    background: rgba(0,0,0,.4);
+
+    text-indent: 0;
+    padding-right: 26px;
+}
+
+.material-symbols-outlined{
+    font-size: 15px;
+    
+
+}

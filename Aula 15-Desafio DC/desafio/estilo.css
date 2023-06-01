@@ -1,0 +1,26 @@
+html,body
+{
+    margin: 0; /* Os três primeiros são margens*/
+    border: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background:#A491D3;
+}
+
+.grid
+{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100%;
+    justify-items: center;/*Comandos para centralizar*/
+    align-items: center;
+    height: 100%;
+}
+
+.item
+{
+    width: auto;
+    height: auto;
+    background: #502274;
+}

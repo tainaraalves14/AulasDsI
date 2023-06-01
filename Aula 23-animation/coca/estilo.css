@@ -1,0 +1,27 @@
+html, body
+{
+    margin: 0;
+    border: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.conteudo
+{
+    display: grid;
+    place-items: center; /*qualquer item que inserir vem no meio */ 
+    height: 100vh;
+}
+
+.caixa
+{
+    outline: 5px solid red; /* criar uma caixa, */
+}
+.efeito
+{
+    transform: 
+    /* skewX(30deg); */
+    /*scale(0.5); aumenta o objeto da coca 1.2*/
+    /*rotate(0.25turn) rotate faz girar é em graus, tem que ser deg ou turn */
+     /*translate(200px, 200px); translateX: altera o formato do elemento, direita negativo e esquerda positivo; translateY cima em baixo */
+}

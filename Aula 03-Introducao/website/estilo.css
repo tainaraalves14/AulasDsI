@@ -1,0 +1,31 @@
+html, body
+{   
+    width:100%; /* Os 4 elementos mais importantes   */
+    height:100%;
+    margin:0;
+    border:0;
+    background: rgb(220, 20, 60);
+}
+
+.wrapper
+{
+    margin:0 auto;  /* Centraliza independente da tela*/
+    background: rgb(255,255,255);
+    height:auto; /*Altura da tela automaticamente (viewport)*/
+    min-height:100%;
+    width: 90%; /*Limitação na largura do site, se ficar 100% até 1200px */
+    max-width: 1200px;
+}
+
+.topo
+{
+    display: grid;
+    grid-auto-columns:100% ;
+}
+
+.imagem
+{
+    width:100%;
+    max-width:100%;
+    height: auto;
+}

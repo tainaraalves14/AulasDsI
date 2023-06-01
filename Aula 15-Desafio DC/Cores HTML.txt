@@ -1,0 +1,7 @@
+Gerador de Paletas de Cores
+https://coolors.co/
+
+
+Ferramenta para extrair cores de fotos
+https://color.adobe.com/
+

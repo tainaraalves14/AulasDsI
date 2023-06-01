@@ -1,0 +1,19 @@
+1. Copiar o arquivo brands.css na pasta css
+
+2. Copiar a pasta webfonts na pasta do Projeto
+
+3. Incluir o link para o arquivo css no código HTML (antes do link do estilo.css)
+
+<link rel="stylesheet" href="css/brands.css">
+
+
+
+********************************************************
+
+Comandos para Inserir os Ícones no HTML
+
+<i class="fa-brands fa-facebook-square"></i>
+
+<i class="fa-brands fa-instagram-square"></i>
+
+<i class="fa-brands fa-twitter-square"></i>
